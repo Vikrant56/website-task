@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Vikrant56/website-task/static/css/main.ce6d7e4f.css",
+    "main.js": "/Vikrant56/website-task/static/js/main.74317260.js",
+    "static/media/Rectangle.jpg": "/Vikrant56/website-task/static/media/Rectangle.090f472d344ba731c22e.jpg",
+    "static/media/nike.jpg": "/Vikrant56/website-task/static/media/nike.51ebba0d8858ed0007fd.jpg",
+    "static/media/Group.png": "/Vikrant56/website-task/static/media/Group.acd6ad52bd0358985653.png",
+    "static/media/shoe.jpg": "/Vikrant56/website-task/static/media/shoe.19eddafb10e851d4af28.jpg",
+    "static/media/logo.jpg": "/Vikrant56/website-task/static/media/logo.207349f6a672dec52a87.jpg",
+    "index.html": "/Vikrant56/website-task/index.html",
+    "main.ce6d7e4f.css.map": "/Vikrant56/website-task/static/css/main.ce6d7e4f.css.map",
+    "main.74317260.js.map": "/Vikrant56/website-task/static/js/main.74317260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce6d7e4f.css",
+    "static/js/main.74317260.js"
+  ]
+}
